@@ -105,7 +105,6 @@ function App() {
     return (
         <div className="App">
             <input 
-             placeholder="Enter Number" 
              id="display" 
              readOnly={true}
             ></input>
